@@ -1,8 +1,8 @@
-# Hi there, I'm Prajjwal Veer Basnet! 👋
+# Hello There👋
 
-I am a recent undergraduate learning and building applications in flutter. 
+My name is Prajjwal Veer Basnet and I am a recently graduated software engineer who loves to build applications. I am keen to learn new technologies and apply them to my projects. I currently am learning and developing projects in Flutter. Currently taking a break exploring and enjoying life. Do check out my projects !  
 
-## 🔧 Technologies & Tools
+# 🔧 Technologies & Tools
 
 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="70" height="70"/>  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="70" height="70"/>  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#" width="70" height="70"/>  <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" alt="Dart" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter" width="70" height="70"/> 
 <img src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000" alt="Pycharms" width="70" height="70"/> 
@@ -25,41 +25,66 @@ I am a recent undergraduate learning and building applications in flutter.
 <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=43096&format=png&color=000000" alt="Sprints" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=KJaWClVI1AMv&format=png&color=000000" alt="Backlog" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=32418&format=png&color=000000" alt="FFmpeg" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="FFmpeg" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="FFmpeg" width="70" height="70"/>
 <br/>
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 <img src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" alt="Maria DB" width="70" height="70"/> 
 
-## 📫 Socials
+# 🚀 Projects
+- [Bhansa](https://github.com/Prajj-10/Bhansa): A recipe sharing platform from users all over the world.
+- [Tomato](https://github.com/Prajj-10/Tomato-Game): A simple Mathematical Tomato game leveraging API usage.
+- [TB Prediction](https://github.com/Prajj-10/Tuberculosis-Prediction-App): A TB Prediction application to assist doctors of Nepal in rural areas.
 
-<a href="https://www.instagram.com/prajjwal_10/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13928&format=png&color=000000" alt="Instagram" width="70" height="70"/>
-</a>
+# About Me:
+
+🎵 I love spending my time listening to music of all genres and styles. Currently listening to Jeremy Zucker and Chelsea Cutler's brent iii. check ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎out my‎ ‎[‎Spotify](https://open.spotify.com/user/31mhbwq3lthnnawplg2mgdjz5jzi) playlists!
+
+🎥 I love nerding about movies and watching cinema from all over the world. Rooting for Dune 2 to sweep the Oscars 💪. Let's be friends on‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [Letterboxd](https://letterboxd.com/Prajj_/)!
+
+🎸 I play guitar and other instruments. Currently learning "Johnny B. Goode" by Chuck Berry and "Edge of Desire" by John Mayer.
+
+⌚ I enjoy talking about and collecting watches. Classic timepieces are a dying breed, and I hope they make a comeback. Let's be friends on‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [WatchCrunch](https://www.watchcrunch.com/Prajj_10)!
+
+🎮 I enjoy playing games when I find some time. I love single player games. I recently finished Silent Hill 2 Remake and Star Wars Jedi Survivor.  
+
+⌨️ Recently, I've started keyboard modding and hope to continue exploring this hobby.
+
+# 📫 Socials
 <a href="https://www.linkedin.com/in/prajj/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="70" height="70"/>
 </a>
-<a href="https://open.spotify.com/user/31mhbwq3lthnnawplg2mgdjz5jzi" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=63316&format=png&color=000000" alt="Spotify" width="70" height="70"/>
-</a>
 <a href="mailto:prajjwalveer2001@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Spotify" width="70" height="70"/>
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" width="70" height="70"/>
+</a>
+<a href="https://www.instagram.com/prajjwal_10/" target="_blank">
+    <img src="./images/instagram.png" alt="Instagram" width="70" height="70"/>
+</a>
+<a href="https://open.spotify.com/user/31mhbwq3lthnnawplg2mgdjz5jzi" target="_blank">
+    <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-logo-spotify-symbol-3.png" alt="Spotify" width="90" height="70"/>
+</a>
+<a href="https://letterboxd.com/Prajj_/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Letterboxd_2023_logo.png" alt="Letterboxd" width="70" height="70"/>
+</a>
+<a href="https://www.watchcrunch.com/Prajj_10" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/8Mw9wImYu0tb5a0QA2o5XSYHA9CfaotTjb2rD7weR4RtAZOph5--3SY2t5MeLBfw-B0=w240-h480-rw" alt="Letterboxd" width="70" height="70"/>
 </a>
 
-# Interests: 
 
-**Browsers**
+# Tech Choices: 
+
+## Operating Systems:
+
+<img src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000" alt="Windows 11" width="70" height="70"/>  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" width="70" height="70"/> 
+
+## PC From:
+<br/>
+<img src="https://img.icons8.com/?size=100&id=pKl6oyq4IKpu&format=png&color=000000" alt="Lenovo" width="70" height="70"/> 
+
+## Browsers
+
 <br/>
 <a href="https://thorium.rocks/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=104996&format=png&color=000000" alt="Thorium" width="70" height="70"/>
 </a><a href="https://www.opera.com/gx" target="_blank"><img src="https://img.icons8.com/?size=100&id=JsJYZuU5f9xf&format=png&color=000000" alt="Opera GX" width="70" height="70"/> </a>
 <br/>
-
-**PC From:**
-<br/>
-<img src="https://img.icons8.com/?size=100&id=pKl6oyq4IKpu&format=png&color=000000" alt="Backlog" width="70" height="70"/> 
-
-
-## 🚀 Projects
-- [Bhansa](https://github.com/Prajj-10/Bhansa): A recipe sharing platform from users all over the world.
-- [Tomato](https://github.com/Prajj-10/Tomato-Game): A simple Mathematical Tomato game leveraging API usage.
-- [TB Prediction](https://github.com/Prajj-10/Tuberculosis-Prediction-App): A TB Prediction application to assist doctors of Nepal in rural areas.
-
+<br>
+<br>
 icons by Icons8 ❤️
