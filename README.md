@@ -2,7 +2,7 @@
 
 My name is Prajjwal Veer Basnet and I am a recently graduated software engineer who loves to build applications. I am keen to learn new technologies and apply them to my projects. I currently am learning and developing projects in Flutter. Currently taking a break exploring and enjoying life. Do check out my projects !  
 
-# 🔧 Technologies & Tools
+# 🔧 Technologies & Tools:
 
 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="70" height="70"/>  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="70" height="70"/>  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#" width="70" height="70"/>  <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" alt="Dart" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter" width="70" height="70"/> 
 <img src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000" alt="Pycharms" width="70" height="70"/> 
@@ -25,10 +25,10 @@ My name is Prajjwal Veer Basnet and I am a recently graduated software engineer 
 <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=43096&format=png&color=000000" alt="Sprints" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=KJaWClVI1AMv&format=png&color=000000" alt="Backlog" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=32418&format=png&color=000000" alt="FFmpeg" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="FFmpeg" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="FFmpeg" width="70" height="70"/>
 <br/>
 
-# 🌱 Currently Learning
+# 🌱 Currently Learning:
 <img src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" alt="Maria DB" width="70" height="70"/> 
 
-# 🚀 Projects
+# 🚀 Projects:
 - [Bhansa](https://github.com/Prajj-10/Bhansa): A recipe sharing platform from users all over the world.
 - [Tomato](https://github.com/Prajj-10/Tomato-Game): A simple Mathematical Tomato game leveraging API usage.
 - [TB Prediction](https://github.com/Prajj-10/Tuberculosis-Prediction-App): A TB Prediction application to assist doctors of Nepal in rural areas.
@@ -47,7 +47,7 @@ My name is Prajjwal Veer Basnet and I am a recently graduated software engineer 
 
 ⌨️ Recently, I've started keyboard modding and hope to continue exploring this hobby.
 
-# 📫 Socials
+# 📫 Socials:
 <a href="https://www.linkedin.com/in/prajj/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="70" height="70"/>
 </a>
@@ -78,7 +78,7 @@ My name is Prajjwal Veer Basnet and I am a recently graduated software engineer 
 <br/>
 <img src="https://img.icons8.com/?size=100&id=pKl6oyq4IKpu&format=png&color=000000" alt="Lenovo" width="70" height="70"/> 
 
-## Browsers
+## Browsers:
 
 <br/>
 <a href="https://thorium.rocks/" target="_blank">
