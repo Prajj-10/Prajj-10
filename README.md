@@ -1,6 +1,6 @@
-# Hello There👋
+# 👋 Hello There
 
-My name is Prajjwal Veer Basnet and I am a recently graduated software engineer who loves to build applications. I am keen to learn new technologies and apply them to my projects. I currently am learning and developing projects in Flutter. Currently taking a break exploring and enjoying life. Do check out my projects !  
+My name is Prajjwal Veer Basnet and I am a recently graduated software engineer who loves to build applications. I am keen to learn new technologies and apply them to my projects. I currently am learning and developing projects in Flutter. Currently taking a break exploring and enjoying life. Do check out my projects !
 
 # 🔧 Technologies & Tools:
 
@@ -29,21 +29,55 @@ My name is Prajjwal Veer Basnet and I am a recently graduated software engineer 
 <img src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" alt="Maria DB" width="70" height="70"/> 
 
 # 🚀 Projects:
-- [Bhansa](https://github.com/Prajj-10/Bhansa): A recipe sharing platform from users all over the world.
-- [Tomato](https://github.com/Prajj-10/Tomato-Game): A simple Mathematical Tomato game leveraging API usage.
-- [TB Prediction](https://github.com/Prajj-10/Tuberculosis-Prediction-App): A TB Prediction application to assist doctors of Nepal in rural areas.
 
-# About Me:
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="./images/Bhansa.png" alt="Bhansa Logo" width="100" height="100">
+    </td>
+    <td>
+      <b><a href="https://github.com/Prajj-10/Bhansa">Bhansa</a></b> : A recipe-sharing platform that connects users worldwide. Share your favorite recipes and explore multiple variations of the same dish from many users.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="./images/tomato-main.png" alt="Tomato Game" width="100" height="100">
+    </td>
+    <td>
+      <b><a href="https://github.com/Prajj-10/Tomato-Game">Tomato Game</a></b> : A Sudoku-style mathematical puzzle game with two modes: classic and time challenge, offering a fun gameplay.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="./images/TBappIcon.png" alt="TB Detection logo" width="100" height="100">
+    </td>
+    <td>
+      <b><a href="https://github.com/Prajj-10/Tuberculosis-Prediction-App">TB Prediction Application</a></b> : A thesis project aimed at assisting Nepalese doctors in rural areas in diagnosing tuberculosis using TensorFlow Lite.
+    </td>
+  </tr>
+</table>
+<br>
+<b> Do check out my other projects down in the pinned section if you want to know more.</b>
 
-🎵 I love spending my time listening to music of all genres and styles. Currently listening to Jeremy Zucker and Chelsea Cutler's brent iii. check ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎out my‎ ‎[‎Spotify](https://open.spotify.com/user/31mhbwq3lthnnawplg2mgdjz5jzi) playlists!
 
-🎥 I love nerding about movies and watching cinema from all over the world. Rooting for Dune 2 to sweep the Oscars 💪. Let's be friends on‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [Letterboxd](https://letterboxd.com/Prajj_/)!
+# 🔥 My Most Used Languages
+<div align="center">
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajj-10&layout=donut-vertical&langs_count=12&theme=tokyonight&show_icons=true)
+
+</div>
+
+# 👨‍💻 About Me:
+
+🎵 I love spending my time listening to music of all genres and styles. Currently listening to Jeremy Zucker and Chelsea Cutler's brent iii. check out my‎ ‎[‎Spotify](https://open.spotify.com/user/31mhbwq3lthnnawplg2mgdjz5jzi) playlists!
+
+🎥 I love nerding about movies and watching cinema from all over the world. Rooting for Dune 2 to sweep the Oscars 💪. Let's be friends on‎ [Letterboxd](https://letterboxd.com/Prajj_/)!
 
 🎸 I play guitar and other instruments. Currently learning "Johnny B. Goode" by Chuck Berry and "Edge of Desire" by John Mayer.
 
-⌚ I enjoy talking about and collecting watches. Classic timepieces are a dying breed, and I hope they make a comeback. Let's be friends on‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [WatchCrunch](https://www.watchcrunch.com/Prajj_10)!
+⌚ I enjoy talking about and collecting watches. Classic timepieces are a dying breed, and I hope they make a comeback. Let's be friends on‎ ‎‎[WatchCrunch](https://www.watchcrunch.com/Prajj_10)!
 
-🎮 I enjoy playing games when I find some time. I love single player games. I recently finished Silent Hill 2 Remake and Star Wars Jedi Survivor.  
+🎮 I enjoy playing games when I find some time. I love single player games. I recently finished Silent Hill 2 Remake and Star Wars Jedi Survivor.
 
 ⌨️ Recently, I've started keyboard modding and hope to continue exploring this hobby.
 
@@ -67,24 +101,24 @@ My name is Prajjwal Veer Basnet and I am a recently graduated software engineer 
     <img src="https://play-lh.googleusercontent.com/8Mw9wImYu0tb5a0QA2o5XSYHA9CfaotTjb2rD7weR4RtAZOph5--3SY2t5MeLBfw-B0=w240-h480-rw" alt="Letterboxd" width="70" height="70"/>
 </a>
 
+# 🖥️ Tech Choices: 
 
-# Tech Choices: 
-
-## Operating Systems:
-
+## ⭕ Operating Systems:
 <img src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000" alt="Windows 11" width="70" height="70"/>  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" width="70" height="70"/> 
 
-## PC From:
-<br/>
+## 💻 PC From:
 <img src="https://img.icons8.com/?size=100&id=pKl6oyq4IKpu&format=png&color=000000" alt="Lenovo" width="70" height="70"/> 
 
-## Browsers:
-
-<br/>
+## ⚙️ Browsers:
 <a href="https://thorium.rocks/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=104996&format=png&color=000000" alt="Thorium" width="70" height="70"/>
 </a><a href="https://www.opera.com/gx" target="_blank"><img src="https://img.icons8.com/?size=100&id=JsJYZuU5f9xf&format=png&color=000000" alt="Opera GX" width="70" height="70"/> </a>
-<br/>
+
+# 🎶 Currently Listening to:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mhbwq3lthnnawplg2mgdjz5jzi&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31mhbwq3lthnnawplg2mgdjz5jzi&redirect=true)
+
+## Recently Played:
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31mhbwq3lthnnawplg2mgdjz5jzi&count=6)
+
 <br>
-<br>
-icons by Icons8 ❤️
+Prajjwal Veer Basnet | 2024 | icons by Icons8 ❤️
