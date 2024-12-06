@@ -1,4 +1,4 @@
-# 👋 Hello There
+# 🙏 Namaste !
 
 My name is Prajjwal Veer Basnet and I am a recently graduated software engineer who loves to build applications. I am keen to learn new technologies and apply them to my projects. I currently am learning and developing projects in Flutter. Currently taking a break exploring and enjoying life. Do check out my projects !
 
