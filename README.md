@@ -61,11 +61,8 @@ My name is Prajjwal Veer Basnet and I am a recently graduated software engineer 
 
 
 # 🔥 My Most Used Languages
-<div align="center">
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajj-10&layout=donut-vertical&langs_count=12&theme=tokyonight&show_icons=true)
 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajj-10&layout=donut-vertical&langs_count=12&theme=tokyonight&show_icons=true)
 
 # 👨‍💻 About Me:
 
