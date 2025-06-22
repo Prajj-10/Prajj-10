@@ -112,10 +112,10 @@ My name is Prajjwal Veer Basnet and I am a recently graduated software engineer 
 </a><a href="https://www.opera.com/gx" target="_blank"><img src="https://img.icons8.com/?size=100&id=JsJYZuU5f9xf&format=png&color=000000" alt="Opera GX" width="70" height="70"/> </a>
 
 # 🎶 Currently Listening to:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mhbwq3lthnnawplg2mgdjz5jzi&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31mhbwq3lthnnawplg2mgdjz5jzi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zgwocp2gdczfwelfgj4lwoecby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Recently Played:
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31mhbwq3lthnnawplg2mgdjz5jzi&count=6)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zgwocp2gdczfwelfgj4lwoecby&count=5)
 
 <br>
 Prajjwal Veer Basnet | 2024 | icons by Icons8 ❤️
