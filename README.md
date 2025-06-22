@@ -112,7 +112,7 @@ My name is Prajjwal Veer Basnet and I am a recently graduated software engineer 
 </a><a href="https://www.opera.com/gx" target="_blank"><img src="https://img.icons8.com/?size=100&id=JsJYZuU5f9xf&format=png&color=000000" alt="Opera GX" width="70" height="70"/> </a>
 
 # 🎶 Currently Listening to:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zgwocp2gdczfwelfgj4lwoecby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zgwocp2gdczfwelfgj4lwoecby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Recently Played:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zgwocp2gdczfwelfgj4lwoecby&count=5)
