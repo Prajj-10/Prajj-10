@@ -4,9 +4,8 @@ My name is Prajjwal Veer Basnet and I am a recently graduated software engineer 
 
 # 🔧 Technologies & Tools:
 
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="70" height="70"/>  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="70" height="70"/>  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#" width="70" height="70"/>  <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" alt="Dart" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter" width="70" height="70"/> 
-<img src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000" alt="Pycharms" width="70" height="70"/> 
-<img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="IntelliJ IDEA" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" alt="Android Studio" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=106501&format=png&color=000000" alt="Android Studio" width="70" height="70"/> <img src="https://static-00.iconduck.com/assets.00/mysqlworkbench-icon-2048x2026-telcey9g.png" alt="Android Studio" width="70" height="70"/> 
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="70" height="70"/>  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="70" height="70"/>  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#" width="70" height="70"/>  <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" alt="Dart" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000" alt="Pycharms" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="IntelliJ IDEA" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=xBW8JMtsQGFC&format=png&color=000000" alt="Android Studio" width="70" height="70"/> <img src="https://img.icons8.com/?size=100&id=106501&format=png&color=000000" alt="AWS" width="70" height="70"/> 
+<img src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQLWorkBench" width="70" height="70"/> 
 <br/>
 <img src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" alt="Visual Studio" width="70" height="70"/> 
 <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="70" height="70"/> 
@@ -66,15 +65,15 @@ My name is Prajjwal Veer Basnet and I am a recently graduated software engineer 
 
 # 👨‍💻 About Me:
 
-🎵 I love spending my time listening to music of all genres and styles. Currently listening to Jeremy Zucker and Chelsea Cutler's brent iii. check out my‎ ‎[‎Spotify](https://open.spotify.com/user/31mhbwq3lthnnawplg2mgdjz5jzi) playlists!
+🎵 I love spending my time listening to music of all genres and styles. Currently obessed with Noah Kahan. Check out my‎ ‎[‎Spotify](https://open.spotify.com/user/31mhbwq3lthnnawplg2mgdjz5jzi) playlists!
 
-🎥 I love nerding about movies and watching cinema from all over the world. Rooting for Dune 2 to sweep the Oscars 💪. Let's be friends on‎ [Letterboxd](https://letterboxd.com/Prajj_/)!
+🎥 I love nerding about movies and watching cinema from all over the world. F1, One Battle After Another, Bring Her Back, Ne Zha 2, and Sinners are my top favourite this year. Let's be friends on‎ [Letterboxd](https://letterboxd.com/Prajj_/)!
 
-🎸 I play guitar and other instruments. Currently learning "Johnny B. Goode" by Chuck Berry and "Edge of Desire" by John Mayer.
+🎸 I play guitar and other instruments. Currently learning "Piano Man" by Billy Joel and "Maine" by Noah Kahan.
 
 ⌚ I enjoy talking about and collecting watches. Classic timepieces are a dying breed, and I hope they make a comeback. Let's be friends on‎ ‎‎[WatchCrunch](https://www.watchcrunch.com/Prajj_10)!
 
-🎮 I enjoy playing games when I find some time. I love single player games. I recently finished Silent Hill 2 Remake and Star Wars Jedi Survivor.
+🎮 I enjoy playing games when I find some time. I love single player games. I recently finished Ghost of Tsushima and Hollow Knight Silksong. Shaw!
 
 ⌨️ Recently, I've started keyboard modding and hope to continue exploring this hobby.
 
@@ -85,9 +84,9 @@ My name is Prajjwal Veer Basnet and I am a recently graduated software engineer 
 <a href="mailto:prajjwalveer2001@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" width="70" height="70"/>
 </a>
-<a href="https://www.instagram.com/prajjwal_10/" target="_blank">
+<!-- <a href="https://www.instagram.com/prajjwal_10/" target="_blank">
     <img src="./images/instagram.png" alt="Instagram" width="70" height="70"/>
-</a>
+</a> -->
 <a href="https://open.spotify.com/user/31mhbwq3lthnnawplg2mgdjz5jzi" target="_blank">
     <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-logo-spotify-symbol-3.png" alt="Spotify" width="90" height="70"/>
 </a>
