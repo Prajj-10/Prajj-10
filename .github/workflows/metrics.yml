@@ -1,0 +1,55 @@
+# OPTIONAL — the accurate language breakdown.
+#
+# This runs in YOUR Actions with YOUR token, so unlike every public stats service it
+# (a) cannot be rate-limited by other people's traffic, and (b) can see your private repos —
+# which is the only way a language breakdown tells the truth about you, since Cue, Slipstream,
+# Shobha's and the Song Reference Network are all private.
+#
+# SETUP (one time):
+#   1. Create a classic PAT: github.com/settings/tokens/new
+#      Scopes: `read:user` and `repo` (repo is what lets it count private work).
+#   2. Add it to this repo as a secret named METRICS_TOKEN:
+#      Settings -> Secrets and variables -> Actions -> New repository secret
+#   3. Actions tab -> "Metrics" -> Run workflow.
+#   4. Then paste this into README.md where you want it:
+#
+#      <img src="./images/readme/metrics.svg" alt="Language breakdown and contribution calendar" width="100%">
+#
+# Until step 3 has run, images/readme/metrics.svg does not exist — which is why the README
+# does not reference it yet.
+
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Prajj-10
+          filename: images/readme/metrics.svg
+          committer_branch: master
+          base: ""
+          config_timezone: Asia/Kathmandu
+          config_display: large
+
+          # weighted by recent commits rather than lifetime repo size, so 2021 coursework
+          # does not outweigh what you actually write now
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_threshold: 1%
+
+          # isometric contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
