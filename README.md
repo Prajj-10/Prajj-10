@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/readme/header-dark.svg">
-  <img src="./images/readme/header-light.svg" alt="Prajjwal Veer Basnet — Building on ideas that I find interesting." width="100%">
-</picture>
+<picture><source media="(max-width: 520px) and (prefers-color-scheme: dark)" srcset="./images/readme/header-dark-m.svg"><source media="(max-width: 520px)" srcset="./images/readme/header-light-m.svg"><source media="(prefers-color-scheme: dark)" srcset="./images/readme/header-dark.svg"><img src="./images/readme/header-light.svg" alt="Prajjwal Veer Basnet — Building on ideas that I find interesting." width="100%"></picture>
 
 <p align="center">
   <a href="https://prajjwalveerbasnet.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/readme/pills/website-dark.svg"><img src="./images/readme/pills/website-light.svg" alt="prajjwalveerbasnet.com" height="30"></picture></a>
@@ -20,7 +17,7 @@
 
 I've been working on some projects for the past couple of months (some more than others) and here are some of them. You can try all of them on my website and learn more about them. 
 
-## [Slipstream](https://prajjwalveerbasnet.com/projects/slipstream)
+## Slipstream
 
 ### F1 usually focuses on the first five contenders. SlipStream lets you choose who you want to see.
 
@@ -32,13 +29,11 @@ raced since the 1950s their full history, along with customizable widgets.
 </a>
 
 <br>
-
-<a href="https://prajjwalveerbasnet.com/projects/slipstream#see-it-working"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/readme/callouts/slipstream-dark.svg"><img src="./images/readme/callouts/slipstream-light.svg" alt="Replay this short clip — Abu Dhabi GP 2021, lap 53 of 58" width="100%"></picture></a>
-
-
 <br>
 
-## [Cue](https://prajjwalveerbasnet.com/projects/cue)
+<a href="https://prajjwalveerbasnet.com/projects/slipstream#see-it-working"><picture><source media="(max-width: 520px) and (prefers-color-scheme: dark)" srcset="./images/readme/callouts/slipstream-dark-m.svg"><source media="(max-width: 520px)" srcset="./images/readme/callouts/slipstream-light-m.svg"><source media="(prefers-color-scheme: dark)" srcset="./images/readme/callouts/slipstream-dark.svg"><img src="./images/readme/callouts/slipstream-light.svg" alt="Replay this short clip — Abu Dhabi GP 2021, lap 53 of 58" width="100%"></picture></a>
+
+## Cue
 
 ### You cannot press a button at the instant of a sound.
 
@@ -51,13 +46,11 @@ mechanisms improve the average human timing.
 </a>
 
 <br>
-
-<a href="https://prajjwalveerbasnet.com/projects/cue#see-it-working"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/readme/callouts/cue-dark.svg"><img src="./images/readme/callouts/cue-light.svg" alt="Try the demo live — tap along, then turn snapping on" width="100%"></picture></a>
-
-
 <br>
 
-## [Shobha's Delicacies](https://prajjwalveerbasnet.com/projects/shobhas-delicacies)
+<a href="https://prajjwalveerbasnet.com/projects/cue#see-it-working"><picture><source media="(max-width: 520px) and (prefers-color-scheme: dark)" srcset="./images/readme/callouts/cue-dark-m.svg"><source media="(max-width: 520px)" srcset="./images/readme/callouts/cue-light-m.svg"><source media="(prefers-color-scheme: dark)" srcset="./images/readme/callouts/cue-dark.svg"><img src="./images/readme/callouts/cue-light.svg" alt="Try the demo live — tap along, then turn snapping on" width="100%"></picture></a>
+
+## Shobha's Delicacies
 
 ### My mother runs a frozen-food kitchen in Kathmandu.
 
@@ -69,9 +62,9 @@ on my phone. This app was built to replace both and make it scalable in the futu
 </a>
 
 <br>
+<br>
 
-<a href="https://prajjwalveerbasnet.com/projects/shobhas-delicacies/#see-it-working"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/readme/callouts/shobha-dark.svg"><img src="./images/readme/callouts/shobha-light.svg" alt="Check out how FIFO works — two shelves, same week, same orders" width="100%"></picture></a>
-
+<a href="https://prajjwalveerbasnet.com/projects/shobhas-delicacies/#see-it-working"><picture><source media="(max-width: 520px) and (prefers-color-scheme: dark)" srcset="./images/readme/callouts/shobha-dark-m.svg"><source media="(max-width: 520px)" srcset="./images/readme/callouts/shobha-light-m.svg"><source media="(prefers-color-scheme: dark)" srcset="./images/readme/callouts/shobha-dark.svg"><img src="./images/readme/callouts/shobha-light.svg" alt="Check out how FIFO works — two shelves, same week, same orders" width="100%"></picture></a>
 
 ---
 
@@ -79,9 +72,9 @@ on my phone. This app was built to replace both and make it scalable in the futu
 
 | Project | What it is |
 |---|---|
-| [Song Reference Network](https://prajjwalveerbasnet.com/projects/song-reference-network) | Building an open network of songs that name-drop other songs. |
-| [TB Prediction](https://prajjwalveerbasnet.com/projects/tb-prediction) | On-device chest X-ray screening for rural Nepali clinics with no radiologist. It can answer "I don't know". Presented at CAN Info-Tech 2024. |
-| [Temporal Reference Resolution](https://prajjwalveerbasnet.com/projects/temporal-reference-resolution) | Second annotator and evaluation lead on a three-model transformer study; the evaluation work changed what the repository reports. |
+| **Song Reference Network** [↗](https://prajjwalveerbasnet.com/projects/song-reference-network) | Building an open network of songs that name-drop other songs. |
+| **TB Prediction** [↗](https://prajjwalveerbasnet.com/projects/tb-prediction) | On-device chest X-ray screening for rural Nepali clinics with no radiologist. It can answer "I don't know". Presented at CAN Info-Tech 2024. |
+| **Temporal Reference Resolution** [↗](https://prajjwalveerbasnet.com/projects/temporal-reference-resolution) | Second annotator and evaluation lead on a three-model transformer study; the evaluation work changed what the repository reports. |
 
 **[See all of my ten projects →](https://prajjwalveerbasnet.com/projects)**
 
@@ -98,7 +91,7 @@ on my phone. This app was built to replace both and make it scalable in the futu
 
 `Dart` · `TypeScript` · `Python` · `C#` · `Java` · `SQL` &nbsp;|&nbsp; Flutter · Riverpod · Next.js · React · Astro · Prisma · PostgreSQL &nbsp;|&nbsp; TensorFlow · Keras · pandas · NumPy &nbsp;|&nbsp; Cloudflare · Vercel · GitHub Actions · Linux
 
-<a href="https://github.com/Prajj-10?tab=repositories"><img src="./images/readme/languages.svg" alt="Language breakdown across my public and private repositories" width="100%"></a>
+<a href="https://github.com/Prajj-10?tab=repositories"><picture><source media="(max-width: 520px)" srcset="./images/readme/languages-m.svg"><img src="./images/readme/languages.svg" alt="Language breakdown across my public and private repositories" width="100%"></picture></a>
 
 <details>
 <summary><b>Hobbies and Leisures:</b> Music, cinema, and a growing watch collection</summary>
