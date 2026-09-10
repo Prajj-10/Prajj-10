@@ -108,7 +108,7 @@ on my phone. This app was built to replace both and make it scalable in the futu
 - **Games** — Single-player story games, whenever I can find the time. I think they're the future of complex storytelling. Recently finished *Ghost of Yotei* and *Hollow Knight: Silksong*.
 - **Watches** — I collect and talk about them far too much. Classic timepieces truly are a dying breed.
 - **Keyboards** — Recently started modding, and it is going about as well as you'd expect (please fund me).
-- **Sport** — Cricket and table tennis are my favourites, but honestly I'll try any sport I can.
+- **Sports** — Cricket and table tennis are my favourites, but honestly I'll try any sport I can.
 
 <p align="center">
   <a href="https://open.spotify.com/user/31zgwocp2gdczfwelfgj4lwoecby"><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31zgwocp2gdczfwelfgj4lwoecby&amp;time=0&amp;logo=1&amp;avatar=0&amp;unique=1&amp;duration=1&amp;album=1&amp;count=4" alt="My four most recently played tracks on Spotify" width="390" /></a>
