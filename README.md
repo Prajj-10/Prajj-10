@@ -111,7 +111,7 @@ on my phone. This app was built to replace both and make it scalable in the futu
 - **Sport** — Cricket and table tennis are my favourites, but honestly I'll try any sport I can.
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31zgwocp2gdczfwelfgj4lwoecby"><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31zgwocp2gdczfwelfgj4lwoecby&amp;time=0&amp;logo=0&amp;unique=1&amp;duration=1&amp;album=1&amp;count=4" alt="My four most recently played tracks on Spotify" width="390" /></a>
+  <a href="https://open.spotify.com/user/31zgwocp2gdczfwelfgj4lwoecby"><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31zgwocp2gdczfwelfgj4lwoecby&amp;time=0&amp;logo=0&amp;avatar=0&amp;unique=1&amp;duration=1&amp;album=1&amp;count=4" alt="My four most recently played tracks on Spotify" width="390" /></a>
   <a href="https://letterboxd.com/Prajj_/"><img src="./images/readme/watching.svg" alt="My four most recently watched films on Letterboxd" width="390" /></a>
 </p>
 
