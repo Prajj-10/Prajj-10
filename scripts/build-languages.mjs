@@ -19,6 +19,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 
 const OUT = 'images/readme/languages.svg';
+const OUT_M = 'images/readme/languages-m.svg';
 const USER = process.env.GH_USER || 'Prajj-10';
 const TOKEN = process.env.GH_TOKEN || '';
 const TOP = 8;
@@ -66,20 +67,28 @@ async function repos() {
   return out.filter((r) => !r.fork && !r.archived && !SKIP.has(r.name));
 }
 
-function render(rows, totals) {
-  const W = 1024, PAD = 20, BAR_Y = 74, BAR_H = 16, BAR_W = W - PAD * 2;
-  const perRow = 4;
+// `mobile` swaps to a 380-wide card with a 2-column legend. GitHub honours
+// `<source media="(max-width: …)">` inside <picture>, so phones get this instead of a
+// 1024px card squeezed to ~37% with 5px legend text.
+function render(rows, totals, mobile = false) {
+  const W = mobile ? 380 : 1024;
+  const PAD = mobile ? 14 : 20;
+  const BAR_Y = mobile ? 66 : 74;
+  const BAR_H = mobile ? 14 : 16;
+  const BAR_W = W - PAD * 2;
+  const perRow = mobile ? 2 : 4;
   const legendRows = Math.ceil(rows.length / perRow);
-  const H = BAR_Y + BAR_H + 24 + legendRows * 26 + 8;
+  const ROW_H = mobile ? 22 : 26;
+  const H = BAR_Y + BAR_H + (mobile ? 20 : 24) + legendRows * ROW_H + 8;
   const p = [];
 
   p.push(`<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Language breakdown: ${esc(rows.map((r) => `${r.name} ${r.pct.toFixed(1)}%`).join(', '))}">`);
   p.push('<title>Languages by bytes of code</title>');
   p.push(`<rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="10" fill="${CARD.bg}"/>`);
 
-  p.push(`<text x="${PAD}" y="34" font-family="${SANS}" font-size="16" font-weight="600" fill="${CARD.text}">Languages</text>`);
-  p.push(`<text x="${W - PAD}" y="34" text-anchor="end" font-family="${SANS}" font-size="12.5" fill="${CARD.dim}">${totals.repos} repositories${TOKEN ? '' : ' (public only)'}</text>`);
-  p.push(`<text x="${PAD}" y="54" font-family="${SANS}" font-size="12.5" fill="${CARD.muted}">by bytes of code${TOKEN ? ', public and private' : ''}</text>`);
+  p.push(`<text x="${PAD}" y="34" font-family="${SANS}" font-size="${mobile ? 15 : 16}" font-weight="600" fill="${CARD.text}">Languages</text>`);
+  p.push(`<text x="${W - PAD}" y="34" text-anchor="end" font-family="${SANS}" font-size="${mobile ? 11 : 12.5}" fill="${CARD.dim}">${totals.repos} repos${TOKEN ? '' : ' (public only)'}</text>`);
+  p.push(`<text x="${PAD}" y="${mobile ? 50 : 54}" font-family="${SANS}" font-size="${mobile ? 11 : 12.5}" fill="${CARD.muted}">by bytes of code${TOKEN ? ', public and private' : ''}</text>`);
 
   // stacked bar, clipped so the rounded ends stay rounded
   p.push(`<clipPath id="bar"><rect x="${PAD}" y="${BAR_Y}" width="${BAR_W}" height="${BAR_H}" rx="${BAR_H / 2}"/></clipPath>`);
@@ -96,12 +105,12 @@ function render(rows, totals) {
   rows.forEach((r, i) => {
     const col = i % perRow, row = Math.floor(i / perRow);
     const lx = PAD + col * (BAR_W / perRow);
-    const ly = BAR_Y + BAR_H + 40 + row * 26;
-    p.push(`<circle cx="${lx + 6}" cy="${ly - 4}" r="6" fill="${r.colour}"/>`);
-    p.push(`<text x="${lx + 20}" y="${ly}" font-family="${SANS}" font-size="14" fill="${CARD.text}">${esc(r.name)}</text>`);
+    const ly = BAR_Y + BAR_H + (mobile ? 34 : 40) + row * ROW_H;
+    p.push(`<circle cx="${lx + 5}" cy="${ly - 4}" r="${mobile ? 5 : 6}" fill="${r.colour}"/>`);
+    p.push(`<text x="${lx + (mobile ? 16 : 20)}" y="${ly}" font-family="${SANS}" font-size="${mobile ? 12.5 : 14}" fill="${CARD.text}">${esc(r.name)}</text>`);
     // right-aligned at a fixed offset so the percentages line up in a column, rather than
     // floating off the end of names of wildly different length ("C#" vs "Jupyter Notebook")
-    p.push(`<text x="${lx + 200}" y="${ly}" text-anchor="end" font-family="${SANS}" font-size="13" fill="${CARD.dim}">${r.pct.toFixed(1)}%</text>`);
+    p.push(`<text x="${lx + (mobile ? BAR_W / perRow - 6 : 200)}" y="${ly}" text-anchor="end" font-family="${SANS}" font-size="${mobile ? 11.5 : 13}" fill="${CARD.dim}">${r.pct.toFixed(1)}%</text>`);
   });
 
   p.push('</svg>');
@@ -133,10 +142,14 @@ async function main() {
   if (restBytes > 0) rows.push({ name: 'Other', pct: (restBytes / total) * 100, colour: '#484f58' });
 
   await fs.mkdir(path.dirname(OUT), { recursive: true });
-  await fs.writeFile(OUT, render(rows, { repos: list.length }));
+  await fs.writeFile(OUT, render(rows, { repos: list.length }, false));
+  await fs.writeFile(OUT_M, render(rows, { repos: list.length }, true));
 
-  const { size } = await fs.stat(OUT);
-  console.log(`  ${OUT}  ${(size / 1024).toFixed(1)} KB  from ${list.length} repositories`);
+  for (const f of [OUT, OUT_M]) {
+    const { size } = await fs.stat(f);
+    console.log(`  ${f}  ${(size / 1024).toFixed(1)} KB`);
+  }
+  console.log(`  from ${list.length} repositories`);
   for (const r of rows) console.log(`    ${r.name.padEnd(18)} ${r.pct.toFixed(1)}%`);
 }
 

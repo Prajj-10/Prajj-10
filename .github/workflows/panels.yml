@@ -52,7 +52,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add images/readme/watching.svg images/readme/languages.svg
+          git add images/readme/watching.svg images/readme/languages.svg images/readme/languages-m.svg
           # Without this guard the workflow would commit an identical file four times a day
           # and the repo would grow by ~150KB each time for no reason.
           if git diff --cached --quiet; then
