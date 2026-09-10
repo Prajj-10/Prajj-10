@@ -1,0 +1,52 @@
+# Rebuilds the "recently watched" panel from your public Letterboxd RSS feed and commits it.
+#
+# Needs no credentials of any kind. Music is handled by the spotify-recently-played widget
+# directly in the README, so there is nothing to build for it here.
+
+name: Update watching panel
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"     # four times a day, off the hour to avoid Actions' busy periods
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - scripts/build-panels.mjs
+      - .github/workflows/panels.yml
+
+# Stops a scheduled run and a manual run from committing over each other
+concurrency:
+  group: panels
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22          # for built-in fetch; the script has no dependencies
+
+      - name: Build the panel
+        env:
+          LETTERBOXD_USER: Prajj_
+        run: node scripts/build-panels.mjs
+
+      - name: Commit only if something actually changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/readme/watching.svg
+          # Without this guard the workflow would commit an identical file four times a day
+          # and the repo would grow by ~150KB each time for no reason.
+          if git diff --cached --quiet; then
+            echo "No change — nothing to commit."
+          else
+            git commit -m "chore: refresh recently-watched panel"
+            git push
+          fi

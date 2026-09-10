@@ -1,0 +1,15 @@
+# Working notes and one-off generators. Useful locally, not meant for a public profile repo.
+# `scripts/` and `.github/` are NOT ignored — the workflows run from them.
+plan/
+
+# Staged fix for the personal-website repo; belongs there, not here.
+site-fix/
+
+# Output of plan/tools/preview.py
+_preview.html
+
+# Iteration zips
+readme-iteration-*.zip
+
+.DS_Store
+node_modules/
