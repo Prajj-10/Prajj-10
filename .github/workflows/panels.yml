@@ -1,9 +1,13 @@
-# Rebuilds the "recently watched" panel from your public Letterboxd RSS feed and commits it.
+# Rebuilds the generated panels and commits them.
 #
-# Needs no credentials of any kind. Music is handled by the spotify-recently-played widget
-# directly in the README, so there is nothing to build for it here.
+#   watching.svg   from your public Letterboxd RSS feed — needs nothing from you
+#   languages.svg  from the GitHub API — needs GH_TOKEN to see private repositories
+#
+# Without GH_TOKEN the language card still builds, but counts public repos only and labels
+# itself that way. Music is the spotify-recently-played widget, embedded straight in the
+# README, so there is nothing to build for it here.
 
-name: Update watching panel
+name: Update generated panels
 
 on:
   schedule:
@@ -13,6 +17,7 @@ on:
     branches: [master]
     paths:
       - scripts/build-panels.mjs
+      - scripts/build-languages.mjs
       - .github/workflows/panels.yml
 
 # Stops a scheduled run and a manual run from committing over each other
@@ -32,21 +37,27 @@ jobs:
         with:
           node-version: 22          # for built-in fetch; the script has no dependencies
 
-      - name: Build the panel
+      - name: Build the watching panel
         env:
           LETTERBOXD_USER: Prajj_
         run: node scripts/build-panels.mjs
+
+      - name: Build the language card
+        env:
+          GH_TOKEN: ${{ secrets.LANGUAGES_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: node scripts/build-languages.mjs
 
       - name: Commit only if something actually changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add images/readme/watching.svg
+          git add images/readme/watching.svg images/readme/languages.svg
           # Without this guard the workflow would commit an identical file four times a day
           # and the repo would grow by ~150KB each time for no reason.
           if git diff --cached --quiet; then
             echo "No change — nothing to commit."
           else
-            git commit -m "chore: refresh recently-watched panel"
+            git commit -m "chore: refresh generated panels"
             git push
           fi
