@@ -31,9 +31,9 @@ raced since the 1950s their full history, along with customizable widgets.
   <img src="./images/readme/slipstream.gif" alt="Slipstream: scrubbing the closing laps of the 2021 Abu Dhabi Grand Prix from official timing data" width="1024">
 </a>
 
-> [!NOTE]
-> Abu Dhabi GP 2021, lap 53 of 58, from official F1 timing data.
-> ### [Replay this short clip →](https://prajjwalveerbasnet.com/projects/slipstream#see-it-working)
+<br>
+
+<a href="https://prajjwalveerbasnet.com/projects/slipstream#see-it-working"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/readme/callouts/slipstream-dark.svg"><img src="./images/readme/callouts/slipstream-light.svg" alt="Replay this short clip — Abu Dhabi GP 2021, lap 53 of 58" width="100%"></picture></a>
 
 
 <br>
@@ -50,9 +50,9 @@ mechanisms improve the average human timing.
   <img src="./images/readme/cue.gif" alt="Cue: tapping word timings over a real mix, then snapping them backwards onto detected onsets" width="1024">
 </a>
 
-> [!NOTE]
-> Tap space as each word ends, then turn snapping on. You can check the real FFT, adaptive threshold, and peak picking all decoded in the page, without storing audio anywhere.
-> ### [Try the demo live→](https://prajjwalveerbasnet.com/projects/cue#see-it-working)
+<br>
+
+<a href="https://prajjwalveerbasnet.com/projects/cue#see-it-working"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/readme/callouts/cue-dark.svg"><img src="./images/readme/callouts/cue-light.svg" alt="Try the demo live — tap along, then turn snapping on" width="100%"></picture></a>
 
 
 <br>
@@ -68,9 +68,9 @@ on my phone. This app was built to replace both and make it scalable in the futu
   <img src="./images/readme/shobha.gif" alt="Two shelves, same deliveries, same orders: FIFO rotation wastes nothing while LIFO throws five batches away" width="1024">
 </a>
 
-> [!NOTE]
-> Examples of two shelves of the same week and the same orders. The only difference is how they are dispatched and which one ends up as waste.
-> ### [Check out how FIFO works→](https://prajjwalveerbasnet.com/projects/shobhas-delicacies/#see-it-working)
+<br>
+
+<a href="https://prajjwalveerbasnet.com/projects/shobhas-delicacies/#see-it-working"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/readme/callouts/shobha-dark.svg"><img src="./images/readme/callouts/shobha-light.svg" alt="Check out how FIFO works — two shelves, same week, same orders" width="100%"></picture></a>
 
 
 ---
@@ -79,9 +79,9 @@ on my phone. This app was built to replace both and make it scalable in the futu
 
 | Project | What it is |
 |---|---|
-| **[Song Reference Network](https://prajjwalveerbasnet.com/projects/song-reference-network)**<br>`nlp` · `graph` | **Songs name-drop other songs**, and those songs could name-drop others in turn. I'm trying to build an open network of them. |
-| **[TB Prediction](https://prajjwalveerbasnet.com/projects/tb-prediction)**<br>`flutter` · `tensorflow-lite` | **On-device chest X-ray screening** for Nepali clinics where specialized doctors are far away. Below its confidence threshold it says *I don't know* instead of guessing. Presented at CAN Info-Tech 2024 representing my college and university. |
-| **[Temporal Reference Resolution](https://prajjwalveerbasnet.com/projects/temporal-reference-resolution)**<br>`transformers` · `evaluation` | **Second annotator and evaluation lead** on a three-model transformer study. I built the part that answers *are these numbers trustable?* and the answer changed what the repository reports. |
+| [Song Reference Network](https://prajjwalveerbasnet.com/projects/song-reference-network) | Building an open network of songs that name-drop other songs. |
+| [TB Prediction](https://prajjwalveerbasnet.com/projects/tb-prediction) | On-device chest X-ray screening for rural Nepali clinics with no radiologist. It can answer "I don't know". Presented at CAN Info-Tech 2024. |
+| [Temporal Reference Resolution](https://prajjwalveerbasnet.com/projects/temporal-reference-resolution) | Second annotator and evaluation lead on a three-model transformer study; the evaluation work changed what the repository reports. |
 
 **[See all of my ten projects →](https://prajjwalveerbasnet.com/projects)**
 
@@ -111,7 +111,7 @@ on my phone. This app was built to replace both and make it scalable in the futu
 - **Sport** — Cricket and table tennis are my favourites, but honestly I'll try any sport I can.
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31zgwocp2gdczfwelfgj4lwoecby"><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31zgwocp2gdczfwelfgj4lwoecby&amp;time=0&amp;logo=0&amp;avatar=0&amp;unique=1&amp;duration=1&amp;album=1&amp;count=4" alt="My four most recently played tracks on Spotify" width="390" /></a>
+  <a href="https://open.spotify.com/user/31zgwocp2gdczfwelfgj4lwoecby"><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31zgwocp2gdczfwelfgj4lwoecby&amp;time=0&amp;logo=1&amp;avatar=0&amp;unique=1&amp;duration=1&amp;album=1&amp;count=4" alt="My four most recently played tracks on Spotify" width="390" /></a>
   <a href="https://letterboxd.com/Prajj_/"><img src="./images/readme/watching.svg" alt="My four most recently watched films on Letterboxd" width="390" /></a>
 </p>
 

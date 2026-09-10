@@ -127,14 +127,18 @@ function renderPanel({ items, user }) {
   p.push(`<title>Recently watched on Letterboxd</title>`);
   p.push(`<rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="10" fill="${C.card}"/>`);
 
-  // Letterboxd's mark alone, no wordmark: the Spotify widget offers only "no logo" or
-  // "icon + Spotify wordmark", and the wordmark isn't wanted, so neither card carries one.
+  // Letterboxd lockup, built to the Spotify widget's measured geometry so the two cards read
+  // as a set: icon occupying x 16..44.8, a 1.2 gap, then the wordmark, all centred on y=24.2.
+  // The title still lands further right than Spotify's 103.77 — "Letterboxd" is three
+  // characters longer than "Spotify" and no amount of spacing fixes that — but the gap
+  // between lockup and title is Spotify's own 7.3, and the vertical centres line up at 24.
   p.push('<g>'
-    + '<circle cx="21" cy="24" r="5" fill="#FF8000"/>'
-    + '<circle cx="30" cy="24" r="5" fill="#00E054"/>'
-    + '<circle cx="39" cy="24" r="5" fill="#40BCF4"/>'
+    + '<circle cx="24" cy="24.2" r="8" fill="#FF8000"/>'
+    + '<circle cx="30.4" cy="24.2" r="8" fill="#00E054"/>'
+    + '<circle cx="36.8" cy="24.2" r="8" fill="#40BCF4"/>'
+    + `<text x="46" y="28.6" font-family="${SANS}" font-size="12.5" font-weight="700" letter-spacing="-0.1" fill="${C.text}">Letterboxd</text>`
     + '</g>');
-  p.push(`<text x="54" y="30" font-family="${SANS}" font-size="16" font-weight="600" fill="${C.text}">Recently Watched</text>`);
+  p.push(`<text x="116" y="30" font-family="${SANS}" font-size="16" font-weight="600" fill="${C.text}">Recently Watched</text>`);
   p.push(`<text x="${RIGHT_X}" y="30" text-anchor="end" font-family="${SANS}" font-size="12.5" font-weight="600" fill="${C.text}">${esc(user)}</text>`);
   for (const y of DIVIDERS) p.push(`<rect x="16" y="${y}" width="368" height="1" fill="${C.border}"/>`);
 

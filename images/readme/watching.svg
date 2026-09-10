@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="272" viewBox="0 0 400 272" role="img" aria-label="Recently watched on Letterboxd: Zakir Khan: Tathastu, Mirzapur: The Movie, Elephants in the Fog, Fear and Loathing in Las Vegas">
 <title>Recently watched on Letterboxd</title>
 <rect x="0.5" y="0.5" width="399" height="271" rx="10" fill="#151b23"/>
-<g><circle cx="21" cy="24" r="5" fill="#FF8000"/><circle cx="30" cy="24" r="5" fill="#00E054"/><circle cx="39" cy="24" r="5" fill="#40BCF4"/></g>
-<text x="54" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e9eef5">Recently Watched</text>
+<g><circle cx="24" cy="24.2" r="8" fill="#FF8000"/><circle cx="30.4" cy="24.2" r="8" fill="#00E054"/><circle cx="36.8" cy="24.2" r="8" fill="#40BCF4"/><text x="46" y="28.6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="-0.1" fill="#e9eef5">Letterboxd</text></g>
+<text x="116" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e9eef5">Recently Watched</text>
 <text x="384" y="30" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#e9eef5">Prajj_</text>
 <rect x="16" y="47.5" width="368" height="1" fill="#232b36"/>
 <rect x="16" y="103.5" width="368" height="1" fill="#232b36"/>
