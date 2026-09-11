@@ -8,21 +8,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=8B949E&center=true&vCenter=true&width=620&height=30&lines=Shipping+Slipstream+to+a+public+release;Mapping+every+song+that+name-drops+another+song;Word-level+lyric+timing%2C+in+the+browser" alt="Currently working on">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=8B949E&center=true&vCenter=true&width=620&height=30&lines=Planning+Slipstream+to+a+public+release;Mapping+every+song+that+name-drops+another+song;Creating+a+word-level+lyric+timing%2C+in+the+browser;Improving+on+the+UI+of+a+simple+cardiac+sonography+anatomy+quiz" alt="Currently working on">
 </p>
 
 ---
 
 # My latest work :
 
-I've been working on some projects for the past couple of months (some more than others) and here are some of them. You can try all of them on my website and learn more about them. 
+I've been working on some projects for the past couple of months (some more than others) and here are some of them. You can try all of the demos on my website and learn more about them. 
 
 ## Slipstream [↗](https://prajjwalveerbasnet.com/projects/slipstream)
 
 ### F1 usually focuses on the first five contenders. SlipStream lets you choose who you want to see.
 
-It also provides everyone who has
-raced since the 1950s their full history, along with customizable widgets.
+It also provides information on everyone who has
+raced since the 1950s, their full history, along with customizable widgets.
 
 <a href="https://prajjwalveerbasnet.com/projects/slipstream#see-it-working">
   <img src="./images/readme/slipstream.gif" alt="Slipstream: scrubbing the closing laps of the 2021 Abu Dhabi Grand Prix from official timing data" width="1024">
@@ -52,7 +52,7 @@ mechanisms improve the average human timing.
 
 ## Shobha's Delicacies [↗](https://prajjwalveerbasnet.com/projects/shobhas-delicacies/)
 
-### My mother runs a frozen-food kitchen in Kathmandu.
+### Shobha's Delicacies - A frozen-food manufacturer in Kathmandu.
 
 Like a small scale business it ran on a simple bill book and the notes app
 on my phone. This app was built to replace both and make it scalable in the future with an inventory management system, POS and a storefront all running on one database, which I and five of our staff use daily.
