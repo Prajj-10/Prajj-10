@@ -1,4 +1,4 @@
-<picture><source media="(max-width: 520px) and (prefers-color-scheme: dark)" srcset="./images/readme/header-dark-m.svg"><source media="(max-width: 520px)" srcset="./images/readme/header-light-m.svg"><source media="(prefers-color-scheme: dark)" srcset="./images/readme/header-dark.svg"><img src="./images/readme/header-light.svg" alt="Prajjwal Veer Basnet — Building on ideas that I find interesting." width="100%"></picture>
+<picture><source media="(max-width: 520px)" srcset="./images/readme/header-m.svg"><img src="./images/readme/header.svg" alt="Prajjwal Veer Basnet — Building on ideas that I find interesting." width="100%"></picture>
 
 <p align="center">
   <a href="https://prajjwalveerbasnet.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/readme/pills/website-dark.svg"><img src="./images/readme/pills/website-light.svg" alt="prajjwalveerbasnet.com" height="30"></picture></a>
@@ -31,7 +31,7 @@ raced since the 1950s their full history, along with customizable widgets.
 <br>
 <br>
 
-<a href="https://prajjwalveerbasnet.com/projects/slipstream#see-it-working"><picture><source media="(max-width: 520px) and (prefers-color-scheme: dark)" srcset="./images/readme/callouts/slipstream-dark-m.svg"><source media="(max-width: 520px)" srcset="./images/readme/callouts/slipstream-light-m.svg"><source media="(prefers-color-scheme: dark)" srcset="./images/readme/callouts/slipstream-dark.svg"><img src="./images/readme/callouts/slipstream-light.svg" alt="Replay this short clip — Abu Dhabi GP 2021, lap 53 of 58" width="100%"></picture></a>
+<a href="https://prajjwalveerbasnet.com/projects/slipstream#see-it-working"><picture><source media="(max-width: 520px)" srcset="./images/readme/callouts/slipstream-m.svg"><img src="./images/readme/callouts/slipstream.svg" alt="Replay this short clip — Abu Dhabi GP 2021, lap 53 of 58" width="100%"></picture></a>
 
 ## Cue
 
@@ -48,7 +48,7 @@ mechanisms improve the average human timing.
 <br>
 <br>
 
-<a href="https://prajjwalveerbasnet.com/projects/cue#see-it-working"><picture><source media="(max-width: 520px) and (prefers-color-scheme: dark)" srcset="./images/readme/callouts/cue-dark-m.svg"><source media="(max-width: 520px)" srcset="./images/readme/callouts/cue-light-m.svg"><source media="(prefers-color-scheme: dark)" srcset="./images/readme/callouts/cue-dark.svg"><img src="./images/readme/callouts/cue-light.svg" alt="Try the demo live — tap along, then turn snapping on" width="100%"></picture></a>
+<a href="https://prajjwalveerbasnet.com/projects/cue#see-it-working"><picture><source media="(max-width: 520px)" srcset="./images/readme/callouts/cue-m.svg"><img src="./images/readme/callouts/cue.svg" alt="Try the demo live — tap along, then turn snapping on" width="100%"></picture></a>
 
 ## Shobha's Delicacies
 
@@ -64,7 +64,7 @@ on my phone. This app was built to replace both and make it scalable in the futu
 <br>
 <br>
 
-<a href="https://prajjwalveerbasnet.com/projects/shobhas-delicacies/#see-it-working"><picture><source media="(max-width: 520px) and (prefers-color-scheme: dark)" srcset="./images/readme/callouts/shobha-dark-m.svg"><source media="(max-width: 520px)" srcset="./images/readme/callouts/shobha-light-m.svg"><source media="(prefers-color-scheme: dark)" srcset="./images/readme/callouts/shobha-dark.svg"><img src="./images/readme/callouts/shobha-light.svg" alt="Check out how FIFO works — two shelves, same week, same orders" width="100%"></picture></a>
+<a href="https://prajjwalveerbasnet.com/projects/shobhas-delicacies/#see-it-working"><picture><source media="(max-width: 520px)" srcset="./images/readme/callouts/shobha-m.svg"><img src="./images/readme/callouts/shobha.svg" alt="Check out how FIFO works — two shelves, same week, same orders" width="100%"></picture></a>
 
 ---
 
