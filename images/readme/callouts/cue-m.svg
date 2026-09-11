@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="136" viewBox="0 0 380 136" role="img" aria-label="Try the demo live → Tap space as each word ends, then turn snapping on. You can check the real FFT, adaptive threshold, and peak picking all decoded in the page, without storing audio anywhere.">
+<title>Try the demo live →</title>
+<style>
+        svg { --bg: #eef7f0; --bar: #1a7f37; --cta: #1a7f37;
+               --body: #3d3d3d; --border: #b6e2c4; }
+        @media (prefers-color-scheme: dark) {
+          svg { --bg: #0d1a12; --bar: #3fb950; --cta: #3fb950;
+                 --body: #c9d1d9; --border: #204a30; }
+        }
+        .c-bg { fill: var(--bg); stroke: var(--border); }
+        .c-bar { fill: var(--bar); }
+        .c-cta { fill: var(--cta); }
+        .c-body { fill: var(--body); }
+        </style>
+<rect x="0.5" y="0.5" width="379" height="135" rx="8" class="c-bg"/>
+<rect x="0" y="0" width="3" height="136" class="c-bar"/>
+<text x="28" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" class="c-cta">Try the demo live →</text>
+<text x="28" y="50.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" class="c-body">Tap space as each word ends, then turn</text>
+<text x="28" y="67.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" class="c-body">snapping on. You can check the real FFT,</text>
+<text x="28" y="84.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" class="c-body">adaptive threshold, and peak picking all</text>
+<text x="28" y="101.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" class="c-body">decoded in the page, without storing audio</text>
+<text x="28" y="118.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" class="c-body">anywhere.</text>
+</svg>

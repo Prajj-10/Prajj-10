@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="107" viewBox="0 0 900 107" role="img" aria-label="Check out how FIFO works → Examples of two shelves of the same week and the same orders. The only difference is how they are dispatched and which one ends up as waste.">
+<title>Check out how FIFO works →</title>
+<style>
+        svg { --bg: #eef7f0; --bar: #1a7f37; --cta: #1a7f37;
+               --body: #3d3d3d; --border: #b6e2c4; }
+        @media (prefers-color-scheme: dark) {
+          svg { --bg: #0d1a12; --bar: #3fb950; --cta: #3fb950;
+                 --body: #c9d1d9; --border: #204a30; }
+        }
+        .c-bg { fill: var(--bg); stroke: var(--border); }
+        .c-bar { fill: var(--bar); }
+        .c-cta { fill: var(--cta); }
+        .c-body { fill: var(--body); }
+        </style>
+<rect x="0.5" y="0.5" width="899" height="106" rx="8" class="c-bg"/>
+<rect x="0" y="0" width="4" height="107" class="c-bar"/>
+<text x="36" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" class="c-cta">Check out how FIFO works →</text>
+<text x="36" y="63.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" class="c-body">Examples of two shelves of the same week and the same orders. The only difference is how</text>
+<text x="36" y="83.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" class="c-body">they are dispatched and which one ends up as waste.</text>
+</svg>

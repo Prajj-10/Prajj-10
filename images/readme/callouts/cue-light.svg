@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="107" viewBox="0 0 900 107" role="img" aria-label="Try the demo live → Tap space as each word ends, then turn snapping on. You can check the real FFT, adaptive threshold, and peak picking all decoded in the page, without storing audio anywhere.">
-<title>Try the demo live →</title>
-<rect x="0.5" y="0.5" width="899" height="106" rx="8" fill="#eef7f0" stroke="#b6e2c4"/>
-<rect x="0" y="0" width="4" height="107" fill="#1a7f37"/>
-<text x="36" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#1a7f37">Try the demo live →</text>
-<text x="36" y="63.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#3d3d3d">Tap space as each word ends, then turn snapping on. You can check the real FFT, adaptive</text>
-<text x="36" y="83.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#3d3d3d">threshold, and peak picking all decoded in the page, without storing audio anywhere.</text>
-</svg>

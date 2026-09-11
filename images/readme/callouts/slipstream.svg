@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="87" viewBox="0 0 900 87" role="img" aria-label="Replay this short clip → Abu Dhabi GP 2021, lap 53 of 58, from official F1 timing data.">
+<title>Replay this short clip →</title>
+<style>
+        svg { --bg: #eef7f0; --bar: #1a7f37; --cta: #1a7f37;
+               --body: #3d3d3d; --border: #b6e2c4; }
+        @media (prefers-color-scheme: dark) {
+          svg { --bg: #0d1a12; --bar: #3fb950; --cta: #3fb950;
+                 --body: #c9d1d9; --border: #204a30; }
+        }
+        .c-bg { fill: var(--bg); stroke: var(--border); }
+        .c-bar { fill: var(--bar); }
+        .c-cta { fill: var(--cta); }
+        .c-body { fill: var(--body); }
+        </style>
+<rect x="0.5" y="0.5" width="899" height="86" rx="8" class="c-bg"/>
+<rect x="0" y="0" width="4" height="87" class="c-bar"/>
+<text x="36" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" class="c-cta">Replay this short clip →</text>
+<text x="36" y="63.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" class="c-body">Abu Dhabi GP 2021, lap 53 of 58, from official F1 timing data.</text>
+</svg>
