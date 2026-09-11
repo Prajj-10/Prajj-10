@@ -17,7 +17,7 @@
 
 I've been working on some projects for the past couple of months (some more than others) and here are some of them. You can try all of them on my website and learn more about them. 
 
-## Slipstream
+## Slipstream [↗](https://prajjwalveerbasnet.com/projects/slipstream)
 
 ### F1 usually focuses on the first five contenders. SlipStream lets you choose who you want to see.
 
@@ -33,7 +33,7 @@ raced since the 1950s their full history, along with customizable widgets.
 
 <a href="https://prajjwalveerbasnet.com/projects/slipstream#see-it-working"><picture><source media="(max-width: 520px)" srcset="./images/readme/callouts/slipstream-m.svg"><img src="./images/readme/callouts/slipstream.svg" alt="Replay this short clip — Abu Dhabi GP 2021, lap 53 of 58" width="100%"></picture></a>
 
-## Cue
+## Cue [↗](https://prajjwalveerbasnet.com/projects/cue)
 
 ### You cannot press a button at the instant of a sound.
 
@@ -50,7 +50,7 @@ mechanisms improve the average human timing.
 
 <a href="https://prajjwalveerbasnet.com/projects/cue#see-it-working"><picture><source media="(max-width: 520px)" srcset="./images/readme/callouts/cue-m.svg"><img src="./images/readme/callouts/cue.svg" alt="Try the demo live — tap along, then turn snapping on" width="100%"></picture></a>
 
-## Shobha's Delicacies
+## Shobha's Delicacies [↗](https://prajjwalveerbasnet.com/projects/shobhas-delicacies/)
 
 ### My mother runs a frozen-food kitchen in Kathmandu.
 

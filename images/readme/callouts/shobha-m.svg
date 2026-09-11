@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="119" viewBox="0 0 380 119" role="img" aria-label="Check out how FIFO works → Examples of two shelves of the same week and the same orders. The only difference is how they are dispatched and which one ends up as waste.">
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="110" viewBox="0 0 380 110" role="img" aria-label="Check out how FIFO works → Examples of two shelves of the same week and the same orders. The only difference is how they are dispatched and which one ends up as waste.">
 <title>Check out how FIFO works →</title>
 <style>
         svg { --bg: #eef7f0; --bar: #1a7f37; --cta: #1a7f37;
@@ -12,11 +12,10 @@
         .c-cta { fill: var(--cta); }
         .c-body { fill: var(--body); }
         </style>
-<rect x="0.5" y="0.5" width="379" height="118" rx="8" class="c-bg"/>
-<rect x="0" y="0" width="3" height="119" class="c-bar"/>
-<text x="28" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" class="c-cta">Check out how FIFO works →</text>
-<text x="28" y="50.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" class="c-body">Examples of two shelves of the same week and</text>
-<text x="28" y="67.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" class="c-body">the same orders. The only difference is how</text>
-<text x="28" y="84.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" class="c-body">they are dispatched and which one ends up as</text>
-<text x="28" y="101.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" class="c-body">waste.</text>
+<rect x="0.5" y="0.5" width="379" height="108" rx="8" class="c-bg"/>
+<rect x="0" y="0" width="3" height="110" class="c-bar"/>
+<text x="28" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" class="c-cta">Check out how FIFO works →</text>
+<text x="28" y="52.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" class="c-body">Examples of two shelves of the same week and the</text>
+<text x="28" y="71.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" class="c-body">same orders. The only difference is how they are</text>
+<text x="28" y="90.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" class="c-body">dispatched and which one ends up as waste.</text>
 </svg>
